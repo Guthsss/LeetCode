@@ -1,5 +1,4 @@
-
-class DuraçãoDaÚltimaPalavra{ // Este código funcionaria apenas para o LeetCode pois, aqui precisa do metodo main para executar corretamente no VsCode.
+public class UltimoElementoArray { // Este código funcionaria apenas para o LeetCode pois, aqui precisa do metodo main para executar corretamente no VsCode.
     public int[] plusOne(int[] digits) {
 
         int n = digits.length;
